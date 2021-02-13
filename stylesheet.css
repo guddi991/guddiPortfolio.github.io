@@ -10,19 +10,42 @@ body{
  
 }
 .button{
-  color: blueviolet;
-  background-color: burlywood;
+  color: #050816;
+  background-color: rgb(155, 49, 84);
+  height: 150px;
+  width: 150px;
   padding: 20px;
   position: absolute;
   left: 90px;
-  text-decoration: none;
-  border-radius: 15px;
-  border: 2px solid blueviolet;
-  font-size: 50px;
+  text-decoration:rgb(155, 49, 84);
+  border-radius: 50%;
+  border: 3px solid rgb(63, 22, 102);
+  font-size: 27px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-style: italic;
+  font-style: auto;
   opacity: 0.8;
+  text-align: center;
+  box-shadow: blur;
+  box-shadow: 4px rgb(155, 49, 84);
+ 
 }
+a:hover{
+  background-color: #a5aed1;
+  color: rgb(155, 49, 84);
+  transition: 1s;
+  transform: rotate(360deg);
+
+}
+.button{
+  top:-400px;
+  animation: drop 0.5s ease forwards;
+}
+@keyframes drop{
+  0%{ opacity: 0}
+  70%{ transform: translateY(700px);}
+  100%{ transform: translateY(650px); opacity: 1;}
+}
+
 
 .container{
   width:100vw;
