@@ -328,23 +328,23 @@ body{
 
 .dress-left{
   width:20vmin;
-  height:0.5vmin;
+  height:5vmin;
   transform:rotateZ(-30deg);
-  background-color: #51406e;
+  background-color: rgb(155, 49, 84);
   position: absolute;
   left:-18vmin;
-  top:5vmin;
+  top:4.7vmin;
   z-index: -1;
 }
 
 .dress-right{
   width:20vmin;
-  height:0.5vmin;
+  height:5vmin;
   transform:scaleX(-1) rotateZ(-30deg);
-  background-color: #51406e;
+  background-color:rgb(155, 49, 84);
   position: absolute;
   right:-18vmin;
-  top:5vmin;
+  top:4.7vmin;
   z-index: -1;
 }
 
