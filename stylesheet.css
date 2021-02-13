@@ -39,7 +39,7 @@ a:hover{
 .button{
   top:-400px;
   animation: drop 0.2s ease forwards;
-  animation-delay: 3s;
+  animation-delay: 2s;
   transform: rotate(360deg);
 }
 @keyframes drop{
