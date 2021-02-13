@@ -12,19 +12,24 @@ body{
 .button{
   color: #050816;
   background-color: rgb(155, 49, 84);
-  height: 150px;
-  width: 150px;
-  padding: 20px;
+  height: 190px;
+  width: 190px;
+  padding: 30px;
   position: absolute;
+  box-shadow:10px 10px 5px black; 
+
   left: 90px;
   text-decoration:rgb(155, 49, 84);
   border-radius: 50%;
-  border: 3px solid rgb(63, 22, 102);
+ 
   font-size: 27px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: auto;
   opacity: 0.8;
   text-align: center;
+  display: flex;
+  justify-content: center;
+ 
   box-shadow: blur;
   box-shadow: 4px rgb(155, 49, 84);
  
