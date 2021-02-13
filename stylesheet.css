@@ -362,7 +362,7 @@ body{
     position: absolute;
     left: 50%;
     right: 50%;
-    bottom:10px;
+    top:200px;
     text-decoration: none;
     border-radius: 15px;
     border: 2px solid blueviolet;
