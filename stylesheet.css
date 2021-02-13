@@ -21,6 +21,7 @@ body{
   left: 90px;
   text-decoration:rgb(155, 49, 84);
   border-radius: 50%;
+  text-shadow: 1px 2.5px rgb(70, 42, 51);
  
   font-size: 33px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
