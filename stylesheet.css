@@ -236,7 +236,7 @@ a:hover{
   position: absolute;
   top:40vmin;
   left:18.5vmin;
-  border-top:2vmin solid rgb(102,34,102,0.9);
+  border-top:2vmin solid rgb(102,34,102);
   opacity: 0.9;
 }
 
