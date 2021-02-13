@@ -347,7 +347,32 @@ body{
   top:4.7vmin;
   z-index: -1;
 }
+/* ------FOR PHONE VERSION----------*/
 
+
+
+
+
+
+@media (max-width: 700px){
+  .button{
+    color: blueviolet;
+    background-color: burlywood;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    bottom:10px;
+    text-decoration: none;
+    border-radius: 15px;
+    border: 2px solid blueviolet;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    opacity: 0.7;
+  }
+
+}
 
 
  
