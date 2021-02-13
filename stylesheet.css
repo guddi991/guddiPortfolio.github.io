@@ -359,10 +359,10 @@ body{
     color: blueviolet;
     background-color: burlywood;
     padding: 20px;
-    position: absolute;
+    position: relative;
     left: 50%;
     right: 50%;
-    top:200px;
+    top: 100px;
     text-decoration: none;
     border-radius: 15px;
     border: 2px solid blueviolet;
