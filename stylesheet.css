@@ -213,7 +213,7 @@ a:hover{
   width:9vmin;
   height:9vmin;
   background-color: rgb(102,34,102);
-  opacity: 0.9;
+ 
   border-radius:73% 7% 81% 1% / 78% 18% 62% 2% ;
   position: absolute;
   top:35vmin;
@@ -223,14 +223,14 @@ a:hover{
 .upper-lip1{
   left:20vmin;
   border-bottom:10vmin solid rgb(102,34,102);
-  opacity: 0.9;
+  
 }
 
 .upper-lip2{
   right:20vmin;
   transform:rotateZ(-120deg);
   border-bottom:10vmin solid rgb(102,34,102);
-  opacity: 0.9;
+  
 }
 
 .lower-lip{
@@ -242,7 +242,6 @@ a:hover{
   top:40vmin;
   left:18.5vmin;
   border-top:2vmin solid rgb(102,34,102);
-  opacity: 0.9;
 }
 
 .nose-left, .nose-right{
