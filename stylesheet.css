@@ -181,7 +181,7 @@ body{
 .upper-lip1, .upper-lip2{
   width:9vmin;
   height:9vmin;
-  background-color:  #662266;
+  background-color:  #dc3753;
   border-radius:73% 7% 81% 1% / 78% 18% 62% 2% ;
   position: absolute;
   top:35vmin;
@@ -190,24 +190,24 @@ body{
 
 .upper-lip1{
   left:20vmin;
-  border-bottom:10vmin solid #662266;
+  border-bottom:10vmin solid #dc3753;
 }
 
 .upper-lip2{
   right:20vmin;
   transform:rotateZ(-120deg);
-  border-bottom:10vmin solid #662266;
+  border-bottom:10vmin solid #dc3753;
 }
 
 .lower-lip{
   width:23vmin;
   height:6vmin;
   border-radius:49% 51% 48% 52% / 20% 15% 85% 80%;
-  background-color: #662266;
+  background-color: #dc3753;
   position: absolute;
   top:40vmin;
   left:18.5vmin;
-  border-top:2vmin solid #662266;
+  border-top:2vmin solid #dc3753;
 }
 
 .nose-left, .nose-right{
