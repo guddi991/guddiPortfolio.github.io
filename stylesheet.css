@@ -503,7 +503,7 @@ ul li a:hover{
     margin-left: 12%;
     position: absolute;
     top: 30%;
-    font-size: 30px;
+    font-size: 20px;
     background-image: linear-gradient(to right, blueviolet, rgb(179, 68,163), rgb(78, 52, 138));
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -515,7 +515,7 @@ ul li a:hover{
 #about{
    
    width: 99%;
-   height: 50vh;
+   height: 90vh;
    background-color: black;
    border-radius: 14px;
    border: 7px solid rgb(179, 68, 163); 
