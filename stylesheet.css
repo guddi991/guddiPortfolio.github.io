@@ -436,15 +436,15 @@ input[type=name], select {
 
 @media(max-width: 700px){
     .resume{
-    font-size: 10px;
+    font-size: 13px;
     text-decoration: none;
     background-color: rgb(179, 68, 163);
     padding-top: 7px;
-    padding-bottom: 13.5px;
-    padding-left: 18px;
-    padding-right: 18px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
     border: 4px solid blueviolet;
-    border-radius: 20px;
+    border-radius: 10px;
     color: rgb(40, 10, 68);
     position: fixed;
     border-bottom-color: blueviolet;
@@ -467,11 +467,11 @@ ul{
 ul li{
    
    
-    padding: 4px 20px;
+    padding: 4px 12px;
     float: right;
     text-decoration: none;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 13px;
     font-weight: bold;
       
 }
