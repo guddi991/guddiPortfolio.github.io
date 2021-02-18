@@ -23,7 +23,7 @@ ul{
     text-decoration: none;
     float: right;
    
-    width: 98%;
+    width: auto;
     border: 2px solid blueviolet;
     margin:0;
     padding: 10px 16px;
