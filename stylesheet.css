@@ -518,7 +518,7 @@ ul li a:hover{
 }
 #about{
    
-   width: 97.5%;
+   width: 97%;
    height: 100vh;
    background-color: black;
    border-radius: 14px;
@@ -562,7 +562,7 @@ img{
 
 
 .services{
-    width: 99%;
+    width: 97%;
    
     background-color: black;
     
@@ -578,7 +578,7 @@ img{
 }
 #section4{
     display: inline-block;
-    width: 100%;
+    width: 80%;
     color:rgb(32, 32, 109);
     height: auto;
     color:rgb(179, 68, 163);
@@ -612,11 +612,11 @@ img{
     
     transition: 0.5s;
     border-radius: 10px;
-    width: 100%;
+    width: 90%;
     filter: drop-shadow(8px 8px 10px rgb(179, 68, 163));
     position: relative;
     bottom: 100px;
-    height: 180px;
+    height: 150px;
     
 }
 .services .contest .servicesbx:hover{
@@ -625,7 +625,7 @@ img{
 }
 
 #cert{
-    width:  99%;
+    width:  97%;
     height: 90vh;
     background-image: url("https://i.postimg.cc/JncZhgnW/Af-N7o-ZO-daisy-wallpaper.jpg");
     background-repeat: no-repeat;
@@ -647,8 +647,9 @@ img{
 }
 #cert1{
     width: 70%;
-    position: left;
+    position: center;
     text-decoration: none;
+    text-align: center;
 }
 #contact{
     width: 99%;
