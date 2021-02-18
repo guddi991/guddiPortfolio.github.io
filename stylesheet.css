@@ -668,7 +668,8 @@ img{
    
     font-size: 50px;
     font-family: cursive;
-    text-align: center;
+    text-align: left;
+    margin-left: 4px;
    
     
 }
@@ -679,7 +680,7 @@ img{
     width: 300px;
     background:rgb(10, 10, 10, 0.1);
     border-radius: 15px;
-    margin-left: 0px;
+    margin-left: 4px;
     border: 4px solid rgb(179, 68, 163);
     color: rgb(179, 68, 163);
 
@@ -812,7 +813,7 @@ input[type=name], select {
    /*text-transform: uppercase;
    */
    font-weight: bold;
-   left: 50px;
+   left: 5px;
 }
 
 #social-menu ul li a{
