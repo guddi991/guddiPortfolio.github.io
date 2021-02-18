@@ -460,7 +460,7 @@ ul{
     text-decoration: none;
     float: right;
    
-    width: auto;
+    width: 100%;
     border: 2px solid blueviolet;
     margin-right:0px;
     padding-top: 10px;
