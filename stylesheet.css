@@ -440,7 +440,7 @@ input[type=name], select {
 
 @media (max-width: 700px){
     .resume{
-    font-size: 15px;
+    font-size: 13px;
     text-decoration: none;
     background-color: rgb(179, 68, 163);
     padding-top: 4px;
@@ -497,7 +497,7 @@ ul li a:hover{
    
 }
 #home{
-    width: 96.1%;
+    width: 100%;
     height: 90vh;
     background-image: url("https://i.postimg.cc/W4y6Z6pc/wp1846435-black-wallpapers.jpg");
     background-position: center;
@@ -676,7 +676,8 @@ img{
    
     font-size: 50px;
     font-family: cursive;
-    text-align: center;
+    text-align: left;
+    margin-left: 15px;
     
    
     
