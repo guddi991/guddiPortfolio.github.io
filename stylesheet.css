@@ -606,11 +606,11 @@ img{
 .services .contest .servicesbx{
     
     
-    padding: 20px 20px;
+   
     background: rgb(179, 68, 163);
     color:rgb(9, 65, 87);
     max-width: 270px;
-    margin: 10px;
+    margin: 20px;
     
     transition: 0.5s;
     border-radius: 10px;
@@ -648,8 +648,8 @@ img{
 
 }
 #cert1{
-    width: 70%;
-    position: center;
+    width: 100%;
+    
     text-decoration: none;
     text-align: center;
 }
