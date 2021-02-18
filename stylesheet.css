@@ -518,7 +518,7 @@ ul li a:hover{
 }
 #about{
    
-   width: 97%;
+   width: 96.7%;
    height: 100vh;
    background-color: black;
    border-radius: 14px;
@@ -604,11 +604,13 @@ img{
     text-decoration: underline;
 }
 .services .contest .servicesbx{
-    padding: 40px 20px;
+    
+    
+    padding: 20px 20px;
     background: rgb(179, 68, 163);
     color:rgb(9, 65, 87);
-    max-width: 300px;
-    margin: 7px;
+    max-width: 270px;
+    margin: 10px;
     
     transition: 0.5s;
     border-radius: 10px;
