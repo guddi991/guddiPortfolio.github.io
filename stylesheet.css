@@ -461,7 +461,8 @@ ul{
     width: auto;
     border: 2px solid blueviolet;
     margin-right:0px;
-    padding: 3px 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     list-style: none;
     
     position: fixed;
@@ -504,7 +505,7 @@ ul li a:hover{
     margin-left: 12%;
     position: absolute;
     top: 30%;
-    font-size: 15px;
+    font-size: 13px;
     background-image: linear-gradient(to right, blueviolet, rgb(179, 68,163), rgb(78, 52, 138));
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -520,7 +521,7 @@ ul li a:hover{
    background-color: black;
    border-radius: 14px;
    border: 7px solid rgb(179, 68, 163); 
-   margin-bottom: 250px;
+   margin-bottom: 0px;
    
   
 
