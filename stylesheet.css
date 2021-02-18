@@ -28,6 +28,7 @@ ul{
     margin:0;
     padding: 10px 16px;
     list-style: none;
+    margin-left: 4px;
     
     position: fixed;
     
@@ -41,6 +42,8 @@ ul li{
     font-family: monospace;
     font-size: 20px;
     font-weight: bold;
+    margin-left: 4px;
+        
       
 }
 ul li a{
