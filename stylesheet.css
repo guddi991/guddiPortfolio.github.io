@@ -26,7 +26,11 @@ ul{
     width: 98%;
     border: 2px solid blueviolet;
     margin:0;
-    padding: 10px 16px;
+    padding-top: 10px;
+    padding-buttom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+   
     list-style: none;
    
     
