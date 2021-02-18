@@ -461,8 +461,9 @@ ul{
     width: auto;
     border: 2px solid blueviolet;
     margin-right:0px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 2px;
     list-style: none;
     
     position: fixed;
