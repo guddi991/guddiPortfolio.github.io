@@ -448,7 +448,7 @@ input[type=name], select {
 
 
 
-@media only screen and (max-width: 700px){
+@media (max-width: 700px){
     .resume{
     font-size: 13px;
     text-decoration: none;
