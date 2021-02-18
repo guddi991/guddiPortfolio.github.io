@@ -612,7 +612,8 @@ img{
     background: rgb(179, 68, 163);
     color:rgb(9, 65, 87);
     max-width: 270px;
-    margin: 20px;
+    padding-left: 5px;
+    margin-left: 5px;
     
     transition: 0.5s;
     border-radius: 10px;
